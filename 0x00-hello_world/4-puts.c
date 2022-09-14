@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * print using puts and followed by a new line
- * end programme with value 0
+ * main - print using puts and followed by a new line
+ * return - end programme with value 0
  **/
 int main (void)
 {
