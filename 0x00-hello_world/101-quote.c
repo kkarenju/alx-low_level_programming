@@ -2,9 +2,10 @@
 #include <unistd.h>
 
 /**
- * main: print and that piece of art is useful\" - Dora Korpar, 2015-10-19 
- *Description: followed by a new line, to the standard error.
- * Return: 1
+ * main - prints exactly "and that piece of art is useful"
+ * - Dora Korpar, 2015-10-19",
+ * followed by a new line, to the standard error.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
