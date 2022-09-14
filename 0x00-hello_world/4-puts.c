@@ -2,10 +2,11 @@
 
 /**
  * main - print using puts and followed by a new line
- * return - end programme with value 0
+ * Description: print using puts
+ * Return: 0
  **/
-int main (void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return(0);
+	return (0);
 }
