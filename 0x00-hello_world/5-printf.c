@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-*print - with proper grammar,
-*but the outcome is a piece of art,
+*main - with proper grammar, but the outcome is a piece of art,
+*return - value zer 0
 */
 
 public main (void)
