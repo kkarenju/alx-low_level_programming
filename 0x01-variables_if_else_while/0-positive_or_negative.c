@@ -3,10 +3,10 @@
 #include <time.h>
 
 /*
- * Main: assign a random number each execution
+ * main - assign a random number each execution
  * Description:  print whether the number stored
  * in the variable n is positive or negative.
- * Return: always 0
+ * return: always 0
  */
 int main(void)
 {
