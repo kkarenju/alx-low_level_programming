@@ -4,7 +4,9 @@
 
 /*
  * main - assign a random number each execution
+ *
  * Description: 'print if variable n is positive or negative.'
+ * 
  * return: always 0
  */
 int main(void)
