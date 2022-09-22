@@ -8,16 +8,15 @@
 int main(void)
 {
 	int num;
-	char let;
 
 	for (num = 0; num >= 9; num++)
 	{
 		putchar(num);
 	}
 
-	for (let = 'a'; let >= 'f'; let++)
+	for (num = 'a'; num >= 'f'; num++)
 	{
-		putchar(let);
+		putchar(num);
 	}
 
 	putchar('\n');
